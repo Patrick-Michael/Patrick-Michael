@@ -40,12 +40,6 @@ Built with **Python**, **Owlready2**, and **Streamlit**, demonstrating semantic 
 A full-stack **clinical decision-support system** for dental prosthesis planning.  
 Developed with **Python (FastAPI)**, **React + TypeScript**, **SQLite**, and **Docker** for reproducible deployment.
 
----
-
-## Contact  
-
-- 📧 Email: [patrick_samy_hanna@hotmail.com](mailto:patrick_samy_hanna@hotmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/patrick-michael](https://linkedin.com/in/patrick-michael)
 
 
 
