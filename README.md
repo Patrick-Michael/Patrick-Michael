@@ -19,7 +19,7 @@ Currently, I’m expanding my skills in data management, machine learning, and h
 
 **Languages:** Python, R, TypeScript  
 **Frameworks & Libraries:** React, Streamlit, FastAPI, Owlready2, RapidFuzz  
-**Tools & Databases:** Docker, SQLite, Power BI, GitHub, Vite  
+**Tools & Databases:** Docker, SQLite, Power BI, GitHub, Vite, Protégé 
 **Domains:** Ontology-Based Diagnostics, Clinical Decision Support, Digital Health Analytics
 
 ---
