@@ -18,8 +18,8 @@ Currently, I’m expanding my skills in data management, machine learning, and h
 ## Tech Stack  
 
 **Languages:** Python, R, TypeScript  
-**Frameworks & Libraries:** React, Streamlit, FastAPI, Owlready2 
-**Tools & Databases:** SQLite, Power BI, GitHub, Protégé 
+**Frameworks & Libraries:** React, Streamlit, FastAPI, Owlready2  
+**Tools & Databases:** SQLite, Power BI, GitHub, Protégé
 
 ---
 
