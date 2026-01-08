@@ -39,6 +39,9 @@ Built with **Python**, **Owlready2**, and **Streamlit**, demonstrating semantic 
 A full-stack **clinical decision-support system** for dental prosthesis planning.  
 Developed with **Python (FastAPI)**, **React + TypeScript**, **SQLite**, and **Docker** for reproducible deployment.
 
+### [DH-WS-26-Tutor](https://github.com/Patrick-Michael/DH-WS-26-Tutor.git)
+A simple project to demonstrate how a single R project can be structured to support the full workflow of a small data task.
+It showcases the different steps from data preparation and analysis to interactive visualization.
 
 
 
