@@ -17,7 +17,7 @@ Currently, I’m expanding my skills in data management, machine learning, and h
 
 ## Tech Stack  
 
-**Languages:** Python, R, TypeScript  
+**Languages:** Python, R  
 **Frameworks & Libraries:** React, Streamlit, FastAPI, Owlready2  
 **Tools & Databases:** SQLite, Power BI, GitHub, Protégé
 
@@ -29,7 +29,7 @@ A selection of projects exploring data-driven and ontology-based approaches to h
 
 ### [R-Interactive-Dental-Statistics](https://github.com/Patrick-Michael/R-Interactive-Dental-Statistics)  
 A visualization-driven tool built with **R Shiny** to simplify and optimize monthly dental clinic reports.  
-Features real-time charts, specialty heatmaps, and revenue analytics for clinical managers.  
+Features real-time charts, speciality heatmaps, and revenue analytics for clinical managers.  
 
 ###  [Mental-Health-Diagnostic-KBS](https://github.com/Patrick-Michael/Mental-Health-Diagnostic-KBS)  
 An **ontology-based diagnostic system** that infers possible mental health episodes and disorders from symptom input.  
