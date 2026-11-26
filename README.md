@@ -35,7 +35,7 @@ An **ontology-based diagnostic system** that infers possible mental health episo
 Built with **Python**, **Owlready2**, and **Streamlit**, demonstrating semantic reasoning in healthcare contexts.  
 
 ###  [Prosthodontic Clinical Decision Support System (CDSS)](https://github.com/Patrick-Michael/CDSS-Prosthesis)  
-A full-stack **clinical decision-support system** for dental prosthesis planning.  
+A full-stack **clinical decision-support system** for dental prosthesis planning (Proof of concept).  
 Developed with **Python (FastAPI)**, **React + TypeScript**, **SQLite**, and **Docker** for reproducible deployment.
 
 ### [DH-WS-26-Tutor](https://github.com/Patrick-Michael/DH-WS-26-Tutor.git)
