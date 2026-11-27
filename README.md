@@ -31,7 +31,7 @@ Tools and technologies I have worked with through academic research, clinical ap
 
 ## Highlighted Projects
 
-A selection of projects exploring data-driven and ontology-based approaches to healthcare and public health.
+A selection of projects exploring data-driven approaches to healthcare and public health.
 
 ### [Prosthodontic Clinical Decision Support System](https://github.com/Patrick-Michael/prosthodontic-cdss-thesis)
 
